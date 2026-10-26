@@ -6,6 +6,12 @@ Designed as a front-end practice project inspired by clean SaaS and product land
 
 ---
 
+## 📸 Preview
+
+![DIT Landing Page Preview](assets/img/preview.png)
+
+---
+
 ## ✨ Features
 
 - **Custom Favicon & Tab Icon**: High-definition SVG and multi-resolution PNG/ICO browser icons matching the brand identity.
@@ -33,6 +39,7 @@ dit-landing-page/
 │   ├── js/
 │   │   └── main.js            # Vanilla JavaScript for tabs, mobile nav, and form UX
 │   └── img/                   # High-resolution project images & favicon assets
+│       ├── preview.png        # Full-page screenshot preview
 │       ├── favicon.svg        # Scalable browser tab icon
 │       ├── favicon.png        # 32x32 & 192x192 tab icons
 │       ├── favicon.ico        # Multi-size tab icon (16/32/48/64)
